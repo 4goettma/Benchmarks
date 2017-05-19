@@ -1,4 +1,4 @@
-## Nvidia GTX 970 (EVGA FTW ACX2.0) Hashcat 3.5.0 Benchmark
+## Nvidia GTX 970 (EVGA FTW ACX2.0) Hashcat Benchmark
 
 **System** Dell Optiplex 330
 
