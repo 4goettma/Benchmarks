@@ -10,7 +10,7 @@
 
 **OS** Windows 7 Professional 64 bit
 
-**Software:** Hashcat v3.5.0, Nvidia driver 382.05
+**Software** Hashcat v3.5.0, Nvidia driver 382.05
 
 ### Benchmark
 
