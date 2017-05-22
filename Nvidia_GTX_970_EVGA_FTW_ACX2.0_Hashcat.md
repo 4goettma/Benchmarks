@@ -4,7 +4,7 @@
 
 **CPU** Intel Core 2 Duo E4500 Processor (2.2 GHz, 2 MB L2 cache, 800 MHz FSB)
 
-**RAM** 2 GB DDR2 Non-ECC SDRAM, 667 MHz (or 800 MHz ?)
+**RAM** 2 GB DDR2 Non-ECC SDRAM, 800 MHz
 
 **GPU** Nvidia GTX 970 (EVGA FTW ACX 2.0) (Base 1216 MHz, Boost 1367 MHz)
 
